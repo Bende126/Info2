@@ -2,8 +2,6 @@
 
 Ebbe a könyvtárba kerül az opcionális házi feladat megoldása.
 
-A bemutatóvideó: https://drive.google.com/file/d/1tJSmydUfnba2UF_W2yjnl2WGDP4Drzjw/view?usp=sharing
-
 # Házi feladat specifikáció
 
 ## Feladat leírása
